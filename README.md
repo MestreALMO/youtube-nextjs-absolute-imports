@@ -4,7 +4,7 @@
   <h3 align="center">YouTube André Lusegardis</h3>
 
   <p align="center">
-    Cookie with NextJS
+    Absolute imports
   </p>
 </p>
 
@@ -46,7 +46,7 @@ yarn dev
 
 ## YouTube
 
-Video: https://youtu.be/Humxa9BM_iA
+Video: https://youtu.be/qvABHDu6_Ow
 
 ## Contact
 
